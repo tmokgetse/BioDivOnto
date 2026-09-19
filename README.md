@@ -1,4 +1,5 @@
-Biodiversity Ontology – Data Collected from Okavango Region of Botswana
+BioDivOnto (Biodiversity Ontology)
+Data Collected from the Okavango Region of Botswana
 An OWL ontology that links community livelihoods, climate information and prediction, and biological indicators in one shared vocabulary. It is intended to help researchers, developers and practitioners describe, integrate and query data on how climate variability, biodiversity and human activity interact at the level of households and villages.
 Status: in active development. Terms, names and axioms may change between versions.
 Overview
